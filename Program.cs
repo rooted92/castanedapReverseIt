@@ -10,7 +10,7 @@ while (run)
 {
     bool wrongAnswer = false;
     Console.WriteLine("Welcome to Reverse It!");
-    Console.WriteLine("Do you want to reverse word or a number? (type 'word' or 'number')");
+    Console.WriteLine("Do you want to reverse a word or a number? (type 'word' or 'number')");
     while (!wrongAnswer)
     {
         string input = Console.ReadLine().ToLower();

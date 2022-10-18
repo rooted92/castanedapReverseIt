@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\bin\Debug\net6.0\pcastanedaReverseIt.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\bin\Debug\net6.0\pcastanedaReverseIt.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\bin\Debug\net6.0\pcastanedaReverseIt.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\bin\Debug\net6.0\pcastanedaReverseIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\bin\Debug\net6.0\pcastanedaReverseIt.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\refint\pcastanedaReverseIt.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\pcastanedaReverseIt.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaReverseIt\obj\Debug\net6.0\ref\pcastanedaReverseIt.dll

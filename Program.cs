@@ -50,11 +50,10 @@ while (run)
             {
                 string word = Console.ReadLine();
                 bool isAlpha = word.All(Char.IsLetter);
-                if(isAlpha == false) {
-                    {
-                        Console.WriteLine("Please enter a word");
-                        wordValid = true;
-                    }
+                if(isAlpha == false || string.IsNullOrEmpty(word))
+                {
+                    Console.WriteLine("Please enter a word");
+                    wordValid = true;
                 }
                 else
                 {
